@@ -38,5 +38,5 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 
 ## gitlab
 
-- [TradingApp](https://gitlab.com/techrefic/nextyn-expert-cloud)
+- [TradingApp](https://gitlab.com/techrefic/trading-app)
 
