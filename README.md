@@ -1,7 +1,5 @@
 # Trading-Application
 
-# Trading Application
-
 A comprehensive trading application that allows users to buy, sell, and manage their portfolio of stocks and cryptocurrencies. The application supports real-time data analysis, charting, and automated trading strategies.
 
 ## Table of Contents
