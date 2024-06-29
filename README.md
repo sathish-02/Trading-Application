@@ -6,6 +6,7 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 
 - [Features](#features)
 - [Usage](#usage)
+- [Application Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [GitLabLink](#gitlab)
 
@@ -28,6 +29,10 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 4. **Automated Trading**: Set up trading bots by specifying the rules and strategies.
 5. **Charts**: Use the charting tool to analyze market trends and make informed decisions.
 6. **Alerts**: Set up price alerts for the assets you are interested in.
+
+## Application Screenshots
+![2021-12-19 (22)](<img width="497" alt="image" src="https://github.com/sathish-02/Trading-Application/assets/95916859/908f75f8-3bad-4204-b1d0-c30e12b7f9d2">
+)
 
 ## Technologies
 
