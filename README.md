@@ -5,13 +5,10 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [GitLabLink](#gitlab)
+
 
 ## Features
 
@@ -22,39 +19,6 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 - **Alerts and Notifications**: Set up price alerts and receive notifications.
 - **Secure Transactions**: Ensure secure buying and selling of assets with encrypted transactions.
 
-## Installation
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm (v6 or higher)
-- MongoDB (for database)
-
-### Steps
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/trading-application.git
-    cd trading-application
-    ```
-
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Set up environment variables. Create a `.env` file and add your API keys and database URL:
-    ```bash
-    API_KEY=your_api_key
-    DB_URL=your_database_url
-    ```
-
-4. Start the application:
-    ```bash
-    npm start
-    ```
-
-5. Open your browser and go to `http://localhost:3000` to view the application.
 
 ## Usage
 
@@ -65,4 +29,14 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 5. **Charts**: Use the charting tool to analyze market trends and make informed decisions.
 6. **Alerts**: Set up price alerts for the assets you are interested in.
 
-## Screens
+## Technologies
+
+- **Frontend**: React, Redux, Chart.js, Bootstrap, Tailwind
+- **Backend**: Node.js, Express, MongoDB
+- **Authentication**: JWT, OAuth2
+- **Deployment**: Docker, AWS
+
+## gitlab
+
+- [TradingApp](https://gitlab.com/techrefic/nextyn-expert-cloud)
+
