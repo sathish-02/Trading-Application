@@ -30,9 +30,6 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 5. **Charts**: Use the charting tool to analyze market trends and make informed decisions.
 6. **Alerts**: Set up price alerts for the assets you are interested in.
 
-## Application Screenshots
-![2021-12-19 (22)](<img width="497" alt="image" src="https://github.com/sathish-02/Trading-Application/assets/95916859/908f75f8-3bad-4204-b1d0-c30e12b7f9d2">
-)
 
 ## Technologies
 
